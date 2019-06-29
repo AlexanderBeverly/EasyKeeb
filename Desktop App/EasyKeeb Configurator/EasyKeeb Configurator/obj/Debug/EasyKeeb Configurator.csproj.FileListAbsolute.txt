@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\bin\Debug\EasyKeeb Configurator.exe.config
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\bin\Debug\EasyKeeb Configurator.exe
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\bin\Debug\EasyKeeb Configurator.pdb
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb_Configurator.Form1.resources
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb_Configurator.Properties.Resources.resources
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb Configurator.csproj.GenerateResource.cache
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb Configurator.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb Configurator.exe
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb Configurator.pdb
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb Configurator.csprojAssemblyReference.cache
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb Configurator.csproj.CopyComplete
+C:\Users\alex\Documents\GitHub\EasyKeeb\Desktop App\EasyKeeb Configurator\EasyKeeb Configurator\obj\Debug\EasyKeeb_Configurator.Form2.resources
